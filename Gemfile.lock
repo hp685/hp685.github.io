@@ -1,0 +1,16 @@
+GEM
+  remote: https://rubygems.org/
+  specs:
+    minima (1.2.0)
+
+PLATFORMS
+  ruby
+
+DEPENDENCIES
+  minima
+
+RUBY VERSION
+   ruby 2.0.0p648
+
+BUNDLED WITH
+   1.13.5
